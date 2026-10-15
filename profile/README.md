@@ -1,6 +1,5 @@
 # Stone Arch Silicon
 
-**Learn chip design. Build hardware. Share the engineering.**  
 A semiconductor-design community at the University of Minnesota.
 
 [Club website](https://stone-arch-silicon.github.io/stone-arch-silicon/) · [Start ASIC 101](https://stone-arch-silicon.github.io/ASIC_101/) · [Project and contributor guide](https://github.com/Stone-Arch-Silicon/stone-arch-silicon#readme)
