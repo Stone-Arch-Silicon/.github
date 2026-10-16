@@ -10,7 +10,7 @@ A semiconductor-design community at the University of Minnesota.
 | --- | --- | --- |
 | Learn the digital hardware flow | [ASIC 101](https://github.com/Stone-Arch-Silicon/ASIC_101) | 25 lessons taking an 8-bit ALU through RTL, verification, FPGA implementation, and ASIC physical design; course validation is ongoing |
 | Read or improve the documentation | [ASIC docs](https://github.com/Stone-Arch-Silicon/ASIC-docs) | The club documentation book and its source |
-| Explore accelerator architecture | [Systolic matrix multiplication](https://github.com/Stone-Arch-Silicon/Mat_Mul_Systolic_Arrays) | SystemVerilog and Vivado project materials for a 2×2 systolic array |
+| Our IP | [Stone Arch Silicon IP]([https://github.com/Stone-Arch-Silicon/Mat_Mul_Systolic_Arrays](https://github.com/Stone-Arch-Silicon/IP-Blocks)) | Our collection of reusable IP Blocks |
 | Explore numerical formats | [8-bit posit](https://github.com/Stone-Arch-Silicon/8-Bit_Posit) | Posit codec documentation and an interactive manual; currently a documentation project |
 | Improve the publishing tools | [Documentation theme](https://github.com/Stone-Arch-Silicon/ASIC-Docs-Theme) | A shared mdBook theme |
 | Find the club and maintain the site | [Club website source](https://github.com/Stone-Arch-Silicon/stone-arch-silicon) | Website, project directory, and contributor entry points |
